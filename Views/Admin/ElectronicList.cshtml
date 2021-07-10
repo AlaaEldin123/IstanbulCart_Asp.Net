@@ -1,0 +1,49 @@
+﻿@model List<BusAPP.AddClasses.ElectronicCard>
+<div class="app-content content">
+    <div class="content-overlay"></div>
+    <div class="header-navbar-shadow"></div>
+    <div class="content-wrapper">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="card-title">Electronic Tables</h4>
+                </div>
+                <div class="card-content">
+
+                    <!-- Table with no outer spacing -->
+                    <div class="table-responsive">
+                        <table class="table mb-0">
+                            <thead>
+                                <tr>
+
+
+                                    <th>Card ID</th>
+                                    <th>Price of Card</th>
+                                    <th>Points</th>
+
+                                </tr>
+                            </thead>
+
+                            <tbody>
+
+                                @foreach (var ist in Model)
+                                {
+                    <tr>
+
+
+
+                        <td>@ist.CardId</td>
+                        <td>@ist.PriceOfCard</td>
+                        <td>@ist.Points</td>
+                    </tr>
+}
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    </div>

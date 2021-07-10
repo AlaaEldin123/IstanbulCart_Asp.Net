@@ -1,0 +1,170 @@
+﻿@model BusAPP.Models.IstanbulCard
+<div class="app-content content">
+    <div class="content-overlay"></div>
+    <div class="header-navbar-shadow"></div>
+    <div class="content-wrapper">
+        <div class="content-header row">
+            <div class="content-header-left col-md-9 col-12 mb-2">
+                <div class="row breadcrumbs-top">
+                    <div class="col-12">
+                        <h2 class="content-header-title float-left mb-0">Istanbul Card</h2>
+                        <div class="breadcrumb-wrapper col-12">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="index.html">Istanbul Card</a>
+                                </li>
+                                <li class="breadcrumb-item">
+                                    <a href="#">Istanbul Card</a>
+                                </li>
+                                <li class="breadcrumb-item active">
+                                    <a href="#">Istanbul Card</a>
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content-header-right text-md-right col-md-3 col-12 d-md-block d-none">
+                <div class="form-group breadcrum-right">
+                    <div class="dropdown">
+                        <button class="btn-icon btn btn-primary btn-round btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="feather icon-settings"></i></button>
+                        <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">Chat</a><a class="dropdown-item" href="#">Email</a><a class="dropdown-item" href="#">Calendar</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content-body">
+            <!-- Basic Horizontal form layout section start -->
+            <section id="basic-horizontal-layouts">
+                <div class="row match-height">
+                    <div class="col-md-12 col-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <h4 class="card-title">Istanbul Card</h4>
+                            </div>
+                            <div class="card-content">
+                                <div class="card-body">
+                                    <form class="form form-horizontal" method="post" role="form">
+                                        <div class="form-body">
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Customer Type</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <select class="form-control" asp-for="CustomerType" asp-items="Html.GetEnumSelectList<BusAPP.Enums.CustomerType>()">
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Vehicles Type</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <select class="form-control" asp-for="Vehicles" asp-items="Html.GetEnumSelectList<BusAPP.Enums.Vehicles>()">
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Transport Number</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <select class="form-control" asp-for="TransportNumber">
+                                                                <option value=""></option>
+                                                                <option value="0">0</option>
+                                                                <option value="1">1</option>
+                                                                <option value="2">2</option>
+                                                                <option value="3">3</option>
+                                                                <option value="4">4</option>
+                                                                <option value="5">5</option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Number Of Stops</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <select class="form-control" asp-for="NumberOfStops">
+                                                                <option value=""></option>
+                                                                <option value="3">3</option>
+                                                                <option value="9">9</option>
+                                                                <option value="15">15</option>
+                                                                <option value="21">21</option>
+                                                                <option value="27">27</option>
+                                                                <option value="33">33</option>
+
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Istanbul Card Id</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <input type="text" class="form-control" placeholder="Enter Card Id">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Balance</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <input type="number" asp-for="Balance" class="form-control" placeholder="Enter Loaded Money to the Card">
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="col-md-8 offset-md-4">
+
+                                                    <button type="submit" class="btn btn-primary mr-1 mb-1">Calculate</button>
+                                                    @*<button type="reset" class="btn btn-outline-warning mr-1 mb-1">Reset</button>*@
+                                                </div>
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Deducted Amount</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <input style="color:black" asp-for="DeductedAmount" class="form-control" placeholder="@ViewBag.GetDeductedAmount">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-2">
+                                                            <span>Available Balance</span>
+
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <input style="color:black" type="number" asp-for="AvailableBalance" class="form-control" placeholder="@ViewBag.GetBalance">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                              
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>

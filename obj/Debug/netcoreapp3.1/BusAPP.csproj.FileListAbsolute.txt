@@ -1,0 +1,460 @@
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\appsettings.json
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.exe
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.deps.json
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.json
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.dev.json
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.pdb
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csprojAssemblyReference.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfoInputs.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfo.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.input.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.output.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorCoreGenerate.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.Manifest.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.xml
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.dll
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.pdb
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.genruntimeconfig.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CopyComplete
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Istanbul.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CoreCompileInputs.cache
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\visual 2019 apps\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Blue.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Electronic.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateIstanbulCard.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\IstanbulList.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\BlueList.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateBlueCard.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateElectronicCard.cshtml.g.cs
+E:\visual 2019 apps\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ElectronicList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\appsettings.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.exe
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.deps.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.dev.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csprojAssemblyReference.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfoInputs.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CoreCompileInputs.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.Manifest.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.xml
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\scopedcss\bundle\BusAPP.styles.css
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.input.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.output.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorCoreGenerate.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\BlueList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateBlueCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateElectronicCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\CreateIstanbulCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\ElectronicList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\IstanbulList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Blue.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Electronic.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Istanbul.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CopyComplete
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.genruntimeconfig.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.exe
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.deps.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.dev.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.Views.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.csprojAssemblyReference.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfoInputs.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.csproj.CoreCompileInputs.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.Manifest.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.xml
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\scopedcss\bundle\BusAPP.styles.css
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.input.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.output.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.RazorCoreGenerate.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Blue.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Electronic.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Istanbul.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.csproj.CopyComplete
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\BusAPP.genruntimeconfig.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Admin\BlueList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateBlueCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateElectronicCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateIstanbulCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ElectronicList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\munir+basil\BusAPP - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Admin\IstanbulList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\appsettings.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.exe
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.deps.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.dev.json
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csprojAssemblyReference.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfoInputs.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CoreCompileInputs.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.Manifest.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.xml
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\scopedcss\bundle\BusAPP.styles.css
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.input.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.output.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorCoreGenerate.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\BlueList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateBlueCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateElectronicCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateIstanbulCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ElectronicList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\IstanbulList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Blue.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Electronic.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Istanbul.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CopyComplete
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\TransportIstanbul\Alaa Eldin\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.genruntimeconfig.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\appsettings.json
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.exe
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.deps.json
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.json
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.runtimeconfig.dev.json
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csprojAssemblyReference.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfoInputs.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.AssemblyInfo.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CoreCompileInputs.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.MvcApplicationPartsAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.Manifest.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\staticwebassets\BusAPP.StaticWebAssets.xml
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\scopedcss\bundle\BusAPP.styles.css
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.input.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.TagHelpers.output.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorCoreGenerate.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\BlueList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateBlueCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateElectronicCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateIstanbulCard.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ElectronicList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Admin\IstanbulList.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Blue.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Electronic.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Istanbul.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cache
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.RazorTargetAssemblyInfo.cs
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.Views.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.csproj.CopyComplete
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.dll
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.pdb
+E:\my study p1\advance programing\assignment\Alaa Eldin APP\BusAPP\obj\Debug\netcoreapp3.1\BusAPP.genruntimeconfig.cache
